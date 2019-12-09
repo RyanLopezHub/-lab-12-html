@@ -45,3 +45,13 @@ h1 {
 h1 {
     padding:  40px;
 }
+
+#intro {
+    border-width:  1px;
+    border-style: solid;
+    border-color: inherit;
+}
+
+.spotlight {
+  background-color: #FEFE22
+}
