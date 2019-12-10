@@ -55,3 +55,33 @@ h1 {
 .spotlight {
   background-color: #FEFE22
 }
+
+h2 {
+    color: red;
+}
+
+.thisOtherClass {
+    color: red;
+}
+
+.yetAnotherClass {
+    color: red;
+}
+
+h2, .thisOtherClass, .yetAnotherClass {
+    color: red;
+}
+
+#top {
+    background-color: #ccc;
+    padding: 1em
+}
+
+#top h1 {
+    color: #ff0;
+}
+
+#top p {
+    color: red;
+    font-weight: bold;
+}
